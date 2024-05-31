@@ -1,0 +1,15 @@
+models:
+  - name: q4
+    description: >
+      Answer to Q4 of take home test
+    meta:
+      owner: lsq.limsiqi@gmail.com
+    columns:
+      - year
+        description: year.
+      - country_name
+        description: Number of country.
+      - vendor_name
+        description: Number of vendor.
+      - total_gmv
+        description: Total number of gmv for each vendor
