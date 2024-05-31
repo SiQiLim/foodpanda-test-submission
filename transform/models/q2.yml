@@ -1,0 +1,14 @@
+models:
+  - name: q2
+    description: >
+      Answer to Q2 of take home test
+    meta:
+      owner: lsq.limsiqi@gmail.com
+    columns:
+      - vendor_name
+        description: Name of vendor.
+      - customer_count
+        description: Number of customer for each vendor.
+      - total_gmv
+        description: Total number of gmv for each vendor
+      
